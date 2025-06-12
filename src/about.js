@@ -29,7 +29,7 @@ function about() {
               <div class="col-lg-6">
                 <ul>
                  
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>https://musera.vercel.app/</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+254743866313</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Nairobi, Kenya</span></li>
                 </ul>
