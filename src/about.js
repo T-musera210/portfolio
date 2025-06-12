@@ -44,7 +44,7 @@ function about() {
               </div>
             </div>
             <p class="py-3">
-             Hi! I'm Tabitha, a passionate Frontend Developer with a love for clean code, beautiful design, and user-friendly experiences.I enjoy turning complex problems into simple, elegant solutions through code and creativity.I specialize in building responsive and interactive web applications using React, Php, HTML, and CSS with a growing curiosity for UI/UX design principles. Beyond code, I have a deep love for music and often spend time exploring vocal techniques and vocal warmups to improve my singing, it's one of my favorite ways to unwind and express myself creatively.
+             Hi! I'm Tabitha, a passionate Frontend Developer with a love for clean code, beautiful design, and user-friendly experiences.I enjoy turning complex problems into simple, elegant solutions through code and creativity.I specialize in building responsive and interactive web applications using React, PHP, HTML, and CSS with a growing curiosity for UI/UX design principles. Beyond code, I have a deep love for music and often spend time exploring vocal techniques and vocal warmups to improve my singing, it's one of my favorite ways to unwind and express myself creatively.
             </p>
           </div>
         </div>
