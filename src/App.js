@@ -2,10 +2,12 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Home from './home';
 import About from './about';
-import Services from './services';
+import Skills from './skills';
 import Footer from './components/footer';
 import Contact from './contact';
-import Resume from './resume';
+import Notfound from './404';
+
+
 
 function App() {
   return (
@@ -14,9 +16,13 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="/services" element={<Services />} />
+          <Route path="/skills" element={<Skills />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/resume" element={<Resume />} />
+          
+
+
+          <Route path="*" element={< Notfound />} />
+
 
 
 
